@@ -1,7 +1,8 @@
 # SignalUM — Sistema de Conversação Seguro
 
-> Trabalho prático de Segurança de Sistemas Informáticos (Universidade do Minho).
-> Implementação de um sistema de chat com End-to-End Encryption.
+## Grade
+
+**Final Grade:** 18.5 / 20 ⭐
 
 ---
 
