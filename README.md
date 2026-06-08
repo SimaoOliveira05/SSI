@@ -1,4 +1,4 @@
-# SignalUM — Sistema de Conversação Seguro
+# SignalUM
 
 ## Grade
 
